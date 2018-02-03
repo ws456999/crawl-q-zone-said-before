@@ -3,7 +3,7 @@
 > python3 爬好友qq空间说说，并生产云图
 
 ## env
-目前仅支持在mac/python3环境下运行
+目前仅支持在mac/python3/firefox环境下运行
 
 ## dependence
 - selenium
