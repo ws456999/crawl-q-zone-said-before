@@ -52,7 +52,7 @@ save
  ---friend-qq-number
       |
       |---words.txt
-      |---cloud.png
+      |---cloud.png
 ```
 
 ## License
