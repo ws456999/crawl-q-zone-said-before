@@ -41,7 +41,7 @@ while True:
     height = 20000 * i
     strWord = "window.scrollBy(0," + str(height)+")"
     driver.execute_script(strWord)
-    time.sleep(4)
+    time.sleep(2)
 
   # 很多时候网页由多个<frame>或<iframe>组成，webdriver默认定位的是最外层的frame，
   # 所以这里需要选中一下说说所在的frame，否则找不到下面需要的网页元素
