@@ -13,6 +13,8 @@
 - geckodriver
 
 ## preview
+
+最终生成的云图
 ![Screenshot](./save/xxxxxxxx/cloud.png)
 
 ## usage
