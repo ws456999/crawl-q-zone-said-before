@@ -3,6 +3,7 @@
 > python3 爬好友qq空间说说，并生产云图
 
 ## env
+
 目前仅支持在mac/python3/firefox环境下运行
 
 ## dependence
@@ -14,7 +15,8 @@
 
 ## preview
 
-最终生成的云图
+最终生成的云图
+
 ![Screenshot](./save/xxxxxxxx/cloud.png)
 
 ## usage
@@ -40,6 +42,17 @@ Example:
   pw = getpass.getpass('请输入密码： ')
 
 
+```
+
+## output
+
+```
+save
+ |
+ ---friend-qq-number
+      |
+      |---words.txt
+      |---cloud.png
 ```
 
 ## License
